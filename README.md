@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Bernie! A current CompSci student at UC Berkeley.
-- 👀 I’m interested in an internship where I can develop products that impact people in a positive way. The education sector is very interesting to me!
-- 🌱 I’m currently exploring Machine Learning and learning all the math associated with it, this will be a journey. 
-- 💞️ I’m looking to collaborate on Android Apps!
+- 👀 I've worked as a Software Engineer and had an internship in the industry
+- 💞️ My focus is mainly in Fullstack Development. I have experience with the Spring Framework, React and Microsoft SQL Server. 
 - 📫 Reach me via discord or email! berndog#4744
 
 <!---
