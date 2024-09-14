@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Bernie! I'm a new grad Fullstack Software Develop.er 
-- 👀 I work as a Fulltime Software Engineer and also had an internship in industry. 
+- 👋 Hi, I’m Bernie! I'm a new grad Fullstack Software Developer.
+- 👀 I work as a Fullstack Web developement Engineer and also had an internship in industry. 
 - 💞️ My focus is mainly in Fullstack Development. I have experience with the Spring Framework, React, D3.js and Microsoft SQL Server. 
 - 📫 Reach me via discord or email! berndog is my username on Discord
 
